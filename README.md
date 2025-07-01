@@ -1,6 +1,7 @@
 # Claude Prompt Optimizer
 
 > Transform rough prompts and ideas into expertly-crafted, professional-grade prompts optimized for Claude AI
+> View an example and test yourself here: https://claude.ai/share/f98712f7-b8e9-4f4a-8afa-d202520933ae
 
 ## Overview
 
